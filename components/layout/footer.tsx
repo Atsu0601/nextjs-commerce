@@ -49,7 +49,7 @@ export default async function Footer() {
         </div>
         <div className="flex flex-col items-center justify-between space-y-4 pb-10 pt-6 text-sm md:flex-row">
           <p>
-            &copy; {copyrightDate} {SITE_NAME}. All rights reserved.
+            &copy; {copyrightDate} {SITE_NAME}. All rights reserved.testtes
           </p>
           <div className="flex items-center text-sm text-white dark:text-black">
             <span className="text-black dark:text-white">Created by</span>
